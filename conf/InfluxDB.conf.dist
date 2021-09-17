@@ -1,0 +1,14 @@
+[worldserver]
+
+########################################
+# InfluxDB configuration
+########################################
+#
+#    InfluxDB.Enable
+#        Description: Enable influxdb
+#        Default:     0 - Disabled
+#                     1 - Enabled
+#
+
+InfluxDB.Enable = 0
+InfluxDB.Host = '127.0.0.1'
