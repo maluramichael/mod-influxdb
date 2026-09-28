@@ -1,5 +1,10 @@
 # InfluxDB Module
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=mod-influxdb)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=mod-influxdb)
+<!-- links:end -->
+
 ## Description
 
 Sends player and server events to an influx db instances via the /write API.
